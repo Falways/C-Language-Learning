@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/xuhang/Desktop/Falways/C-Language-Learning/grammar_sugar
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/xuhang/Desktop/Falways/C-Language-Learning/grammar_sugar/cmake-build-debug
