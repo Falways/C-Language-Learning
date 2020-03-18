@@ -70,17 +70,167 @@ CMakeFiles/c_grammar_sugar.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/main.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/main.c -o CMakeFiles/c_grammar_sugar.dir/main.c.s
 
+CMakeFiles/c_grammar_sugar.dir/support.c.o: CMakeFiles/c_grammar_sugar.dir/flags.make
+CMakeFiles/c_grammar_sugar.dir/support.c.o: ../support.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/c_grammar_sugar.dir/support.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_grammar_sugar.dir/support.c.o   -c /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/support.c
+
+CMakeFiles/c_grammar_sugar.dir/support.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_grammar_sugar.dir/support.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/support.c > CMakeFiles/c_grammar_sugar.dir/support.c.i
+
+CMakeFiles/c_grammar_sugar.dir/support.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/support.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/support.c -o CMakeFiles/c_grammar_sugar.dir/support.c.s
+
+CMakeFiles/c_grammar_sugar.dir/if_test.c.o: CMakeFiles/c_grammar_sugar.dir/flags.make
+CMakeFiles/c_grammar_sugar.dir/if_test.c.o: ../if_test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/c_grammar_sugar.dir/if_test.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_grammar_sugar.dir/if_test.c.o   -c /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/if_test.c
+
+CMakeFiles/c_grammar_sugar.dir/if_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_grammar_sugar.dir/if_test.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/if_test.c > CMakeFiles/c_grammar_sugar.dir/if_test.c.i
+
+CMakeFiles/c_grammar_sugar.dir/if_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/if_test.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/if_test.c -o CMakeFiles/c_grammar_sugar.dir/if_test.c.s
+
+CMakeFiles/c_grammar_sugar.dir/for_test.c.o: CMakeFiles/c_grammar_sugar.dir/flags.make
+CMakeFiles/c_grammar_sugar.dir/for_test.c.o: ../for_test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/c_grammar_sugar.dir/for_test.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_grammar_sugar.dir/for_test.c.o   -c /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/for_test.c
+
+CMakeFiles/c_grammar_sugar.dir/for_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_grammar_sugar.dir/for_test.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/for_test.c > CMakeFiles/c_grammar_sugar.dir/for_test.c.i
+
+CMakeFiles/c_grammar_sugar.dir/for_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/for_test.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/for_test.c -o CMakeFiles/c_grammar_sugar.dir/for_test.c.s
+
+CMakeFiles/c_grammar_sugar.dir/func_test.c.o: CMakeFiles/c_grammar_sugar.dir/flags.make
+CMakeFiles/c_grammar_sugar.dir/func_test.c.o: ../func_test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/c_grammar_sugar.dir/func_test.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_grammar_sugar.dir/func_test.c.o   -c /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/func_test.c
+
+CMakeFiles/c_grammar_sugar.dir/func_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_grammar_sugar.dir/func_test.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/func_test.c > CMakeFiles/c_grammar_sugar.dir/func_test.c.i
+
+CMakeFiles/c_grammar_sugar.dir/func_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/func_test.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/func_test.c -o CMakeFiles/c_grammar_sugar.dir/func_test.c.s
+
+CMakeFiles/c_grammar_sugar.dir/enum_test.c.o: CMakeFiles/c_grammar_sugar.dir/flags.make
+CMakeFiles/c_grammar_sugar.dir/enum_test.c.o: ../enum_test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/c_grammar_sugar.dir/enum_test.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_grammar_sugar.dir/enum_test.c.o   -c /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/enum_test.c
+
+CMakeFiles/c_grammar_sugar.dir/enum_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_grammar_sugar.dir/enum_test.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/enum_test.c > CMakeFiles/c_grammar_sugar.dir/enum_test.c.i
+
+CMakeFiles/c_grammar_sugar.dir/enum_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/enum_test.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/enum_test.c -o CMakeFiles/c_grammar_sugar.dir/enum_test.c.s
+
+CMakeFiles/c_grammar_sugar.dir/point_test.c.o: CMakeFiles/c_grammar_sugar.dir/flags.make
+CMakeFiles/c_grammar_sugar.dir/point_test.c.o: ../point_test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/c_grammar_sugar.dir/point_test.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_grammar_sugar.dir/point_test.c.o   -c /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/point_test.c
+
+CMakeFiles/c_grammar_sugar.dir/point_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_grammar_sugar.dir/point_test.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/point_test.c > CMakeFiles/c_grammar_sugar.dir/point_test.c.i
+
+CMakeFiles/c_grammar_sugar.dir/point_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/point_test.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/point_test.c -o CMakeFiles/c_grammar_sugar.dir/point_test.c.s
+
+CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.o: CMakeFiles/c_grammar_sugar.dir/flags.make
+CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.o: ../callback_func_test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.o   -c /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/callback_func_test.c
+
+CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/callback_func_test.c > CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.i
+
+CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/callback_func_test.c -o CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.s
+
+CMakeFiles/c_grammar_sugar.dir/struct_test.c.o: CMakeFiles/c_grammar_sugar.dir/flags.make
+CMakeFiles/c_grammar_sugar.dir/struct_test.c.o: ../struct_test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/c_grammar_sugar.dir/struct_test.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_grammar_sugar.dir/struct_test.c.o   -c /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/struct_test.c
+
+CMakeFiles/c_grammar_sugar.dir/struct_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_grammar_sugar.dir/struct_test.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/struct_test.c > CMakeFiles/c_grammar_sugar.dir/struct_test.c.i
+
+CMakeFiles/c_grammar_sugar.dir/struct_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/struct_test.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/struct_test.c -o CMakeFiles/c_grammar_sugar.dir/struct_test.c.s
+
+CMakeFiles/c_grammar_sugar.dir/union_test.c.o: CMakeFiles/c_grammar_sugar.dir/flags.make
+CMakeFiles/c_grammar_sugar.dir/union_test.c.o: ../union_test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/c_grammar_sugar.dir/union_test.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_grammar_sugar.dir/union_test.c.o   -c /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/union_test.c
+
+CMakeFiles/c_grammar_sugar.dir/union_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_grammar_sugar.dir/union_test.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/union_test.c > CMakeFiles/c_grammar_sugar.dir/union_test.c.i
+
+CMakeFiles/c_grammar_sugar.dir/union_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/union_test.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/union_test.c -o CMakeFiles/c_grammar_sugar.dir/union_test.c.s
+
+CMakeFiles/c_grammar_sugar.dir/more_test.c.o: CMakeFiles/c_grammar_sugar.dir/flags.make
+CMakeFiles/c_grammar_sugar.dir/more_test.c.o: ../more_test.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/c_grammar_sugar.dir/more_test.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/c_grammar_sugar.dir/more_test.c.o   -c /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/more_test.c
+
+CMakeFiles/c_grammar_sugar.dir/more_test.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/c_grammar_sugar.dir/more_test.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/more_test.c > CMakeFiles/c_grammar_sugar.dir/more_test.c.i
+
+CMakeFiles/c_grammar_sugar.dir/more_test.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/c_grammar_sugar.dir/more_test.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/more_test.c -o CMakeFiles/c_grammar_sugar.dir/more_test.c.s
+
 # Object files for target c_grammar_sugar
 c_grammar_sugar_OBJECTS = \
-"CMakeFiles/c_grammar_sugar.dir/main.c.o"
+"CMakeFiles/c_grammar_sugar.dir/main.c.o" \
+"CMakeFiles/c_grammar_sugar.dir/support.c.o" \
+"CMakeFiles/c_grammar_sugar.dir/if_test.c.o" \
+"CMakeFiles/c_grammar_sugar.dir/for_test.c.o" \
+"CMakeFiles/c_grammar_sugar.dir/func_test.c.o" \
+"CMakeFiles/c_grammar_sugar.dir/enum_test.c.o" \
+"CMakeFiles/c_grammar_sugar.dir/point_test.c.o" \
+"CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.o" \
+"CMakeFiles/c_grammar_sugar.dir/struct_test.c.o" \
+"CMakeFiles/c_grammar_sugar.dir/union_test.c.o" \
+"CMakeFiles/c_grammar_sugar.dir/more_test.c.o"
 
 # External object files for target c_grammar_sugar
 c_grammar_sugar_EXTERNAL_OBJECTS =
 
 c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/main.c.o
+c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/support.c.o
+c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/if_test.c.o
+c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/for_test.c.o
+c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/func_test.c.o
+c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/enum_test.c.o
+c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/point_test.c.o
+c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.o
+c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/struct_test.c.o
+c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/union_test.c.o
+c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/more_test.c.o
 c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/build.make
 c_grammar_sugar: CMakeFiles/c_grammar_sugar.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable c_grammar_sugar"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking C executable c_grammar_sugar"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/c_grammar_sugar.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -78,7 +78,40 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/callback_func_test.c">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/enum_test.c">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/for_test.c">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/func_test.c">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/if_test.c">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
 		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/main.c">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/more_test.c">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/more_test.h">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/point_test.c">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/struct_test.c">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/support.c">
+			<Option target="c_grammar_sugar"/>
+		</Unit>
+		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/union_test.c">
 			<Option target="c_grammar_sugar"/>
 		</Unit>
 		<Unit filename="/Users/xuhang/Desktop/Falways/C-Language-Learning/c_grammar_sugar/CMakeLists.txt">

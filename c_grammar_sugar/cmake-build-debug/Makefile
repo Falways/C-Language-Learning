@@ -123,6 +123,141 @@ c_grammar_sugar/fast:
 	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/build
 .PHONY : c_grammar_sugar/fast
 
+callback_func_test.o: callback_func_test.c.o
+
+.PHONY : callback_func_test.o
+
+# target to build an object file
+callback_func_test.c.o:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.o
+.PHONY : callback_func_test.c.o
+
+callback_func_test.i: callback_func_test.c.i
+
+.PHONY : callback_func_test.i
+
+# target to preprocess a source file
+callback_func_test.c.i:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.i
+.PHONY : callback_func_test.c.i
+
+callback_func_test.s: callback_func_test.c.s
+
+.PHONY : callback_func_test.s
+
+# target to generate assembly for a file
+callback_func_test.c.s:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/callback_func_test.c.s
+.PHONY : callback_func_test.c.s
+
+enum_test.o: enum_test.c.o
+
+.PHONY : enum_test.o
+
+# target to build an object file
+enum_test.c.o:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/enum_test.c.o
+.PHONY : enum_test.c.o
+
+enum_test.i: enum_test.c.i
+
+.PHONY : enum_test.i
+
+# target to preprocess a source file
+enum_test.c.i:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/enum_test.c.i
+.PHONY : enum_test.c.i
+
+enum_test.s: enum_test.c.s
+
+.PHONY : enum_test.s
+
+# target to generate assembly for a file
+enum_test.c.s:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/enum_test.c.s
+.PHONY : enum_test.c.s
+
+for_test.o: for_test.c.o
+
+.PHONY : for_test.o
+
+# target to build an object file
+for_test.c.o:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/for_test.c.o
+.PHONY : for_test.c.o
+
+for_test.i: for_test.c.i
+
+.PHONY : for_test.i
+
+# target to preprocess a source file
+for_test.c.i:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/for_test.c.i
+.PHONY : for_test.c.i
+
+for_test.s: for_test.c.s
+
+.PHONY : for_test.s
+
+# target to generate assembly for a file
+for_test.c.s:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/for_test.c.s
+.PHONY : for_test.c.s
+
+func_test.o: func_test.c.o
+
+.PHONY : func_test.o
+
+# target to build an object file
+func_test.c.o:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/func_test.c.o
+.PHONY : func_test.c.o
+
+func_test.i: func_test.c.i
+
+.PHONY : func_test.i
+
+# target to preprocess a source file
+func_test.c.i:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/func_test.c.i
+.PHONY : func_test.c.i
+
+func_test.s: func_test.c.s
+
+.PHONY : func_test.s
+
+# target to generate assembly for a file
+func_test.c.s:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/func_test.c.s
+.PHONY : func_test.c.s
+
+if_test.o: if_test.c.o
+
+.PHONY : if_test.o
+
+# target to build an object file
+if_test.c.o:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/if_test.c.o
+.PHONY : if_test.c.o
+
+if_test.i: if_test.c.i
+
+.PHONY : if_test.i
+
+# target to preprocess a source file
+if_test.c.i:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/if_test.c.i
+.PHONY : if_test.c.i
+
+if_test.s: if_test.c.s
+
+.PHONY : if_test.s
+
+# target to generate assembly for a file
+if_test.c.s:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/if_test.c.s
+.PHONY : if_test.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -150,6 +285,141 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/main.c.s
 .PHONY : main.c.s
 
+more_test.o: more_test.c.o
+
+.PHONY : more_test.o
+
+# target to build an object file
+more_test.c.o:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/more_test.c.o
+.PHONY : more_test.c.o
+
+more_test.i: more_test.c.i
+
+.PHONY : more_test.i
+
+# target to preprocess a source file
+more_test.c.i:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/more_test.c.i
+.PHONY : more_test.c.i
+
+more_test.s: more_test.c.s
+
+.PHONY : more_test.s
+
+# target to generate assembly for a file
+more_test.c.s:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/more_test.c.s
+.PHONY : more_test.c.s
+
+point_test.o: point_test.c.o
+
+.PHONY : point_test.o
+
+# target to build an object file
+point_test.c.o:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/point_test.c.o
+.PHONY : point_test.c.o
+
+point_test.i: point_test.c.i
+
+.PHONY : point_test.i
+
+# target to preprocess a source file
+point_test.c.i:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/point_test.c.i
+.PHONY : point_test.c.i
+
+point_test.s: point_test.c.s
+
+.PHONY : point_test.s
+
+# target to generate assembly for a file
+point_test.c.s:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/point_test.c.s
+.PHONY : point_test.c.s
+
+struct_test.o: struct_test.c.o
+
+.PHONY : struct_test.o
+
+# target to build an object file
+struct_test.c.o:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/struct_test.c.o
+.PHONY : struct_test.c.o
+
+struct_test.i: struct_test.c.i
+
+.PHONY : struct_test.i
+
+# target to preprocess a source file
+struct_test.c.i:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/struct_test.c.i
+.PHONY : struct_test.c.i
+
+struct_test.s: struct_test.c.s
+
+.PHONY : struct_test.s
+
+# target to generate assembly for a file
+struct_test.c.s:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/struct_test.c.s
+.PHONY : struct_test.c.s
+
+support.o: support.c.o
+
+.PHONY : support.o
+
+# target to build an object file
+support.c.o:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/support.c.o
+.PHONY : support.c.o
+
+support.i: support.c.i
+
+.PHONY : support.i
+
+# target to preprocess a source file
+support.c.i:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/support.c.i
+.PHONY : support.c.i
+
+support.s: support.c.s
+
+.PHONY : support.s
+
+# target to generate assembly for a file
+support.c.s:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/support.c.s
+.PHONY : support.c.s
+
+union_test.o: union_test.c.o
+
+.PHONY : union_test.o
+
+# target to build an object file
+union_test.c.o:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/union_test.c.o
+.PHONY : union_test.c.o
+
+union_test.i: union_test.c.i
+
+.PHONY : union_test.i
+
+# target to preprocess a source file
+union_test.c.i:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/union_test.c.i
+.PHONY : union_test.c.i
+
+union_test.s: union_test.c.s
+
+.PHONY : union_test.s
+
+# target to generate assembly for a file
+union_test.c.s:
+	$(MAKE) -f CMakeFiles/c_grammar_sugar.dir/build.make CMakeFiles/c_grammar_sugar.dir/union_test.c.s
+.PHONY : union_test.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +429,39 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... c_grammar_sugar"
+	@echo "... callback_func_test.o"
+	@echo "... callback_func_test.i"
+	@echo "... callback_func_test.s"
+	@echo "... enum_test.o"
+	@echo "... enum_test.i"
+	@echo "... enum_test.s"
+	@echo "... for_test.o"
+	@echo "... for_test.i"
+	@echo "... for_test.s"
+	@echo "... func_test.o"
+	@echo "... func_test.i"
+	@echo "... func_test.s"
+	@echo "... if_test.o"
+	@echo "... if_test.i"
+	@echo "... if_test.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... more_test.o"
+	@echo "... more_test.i"
+	@echo "... more_test.s"
+	@echo "... point_test.o"
+	@echo "... point_test.i"
+	@echo "... point_test.s"
+	@echo "... struct_test.o"
+	@echo "... struct_test.i"
+	@echo "... struct_test.s"
+	@echo "... support.o"
+	@echo "... support.i"
+	@echo "... support.s"
+	@echo "... union_test.o"
+	@echo "... union_test.i"
+	@echo "... union_test.s"
 .PHONY : help
 
 
